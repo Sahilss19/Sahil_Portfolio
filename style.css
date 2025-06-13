@@ -150,3 +150,16 @@ align-items:flex-start;
     top: 90%;
   }
 }
+
+
+/* 3d planet splinee------------------------------------------------ */
+
+.planet-3D{
+position: absolute;
+top: -20%;
+right: -14%;
+width: 120%;
+height: 120%;
+
+
+}
