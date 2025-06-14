@@ -218,7 +218,7 @@ height: 120%;
 
 
 .bento-grid {
-    position: relative;
+    
     display: grid;
     height: 90vh;
     width: 90%;
@@ -307,8 +307,9 @@ height: 120%;
 }
 
 .info-3D {
-    width: 150%;
-    height: 150%;
+    margin-bottom:20px;
+    width: 120%;
+    height: 140%;
     mix-blend-mode: lighten;
 }
   
